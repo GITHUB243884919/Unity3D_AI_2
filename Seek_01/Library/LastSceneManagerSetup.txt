@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Arrive.unity
+- path: Assets/Scenes/Seek.unity
   isLoaded: 1
   isActive: 1

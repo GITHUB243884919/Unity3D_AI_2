@@ -1,0 +1,3 @@
+MultiTargetExample例子中，地面上的黄色球体为多个可能的目标（例如，代表武器，血包等），玩家会走向最近的球体。
+RTSGroupPathfindingExample中，通过在地面某个位置单击鼠标，确定目标位置。
+TacitalPathfindingExample中，角色会试图避开玩家的火力，寻找能够通向目标的更为隐蔽的路线。

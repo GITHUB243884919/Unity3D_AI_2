@@ -1,0 +1,21 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3788]
+    Renderer: NVIDIA GeForce GTS 450
+    Vendor:   NVIDIA
+    VRAM:     977 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\写书定稿代码整理\Chapter2\Executable\Example9_Cohesion_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

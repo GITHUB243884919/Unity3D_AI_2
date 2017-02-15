@@ -1,0 +1,1 @@
+1.Example5BotController用于Example5的Evade行为中，将这个脚本拖拽到需要Evade的角色中，开始时激活Seek行为，当发现追逐者逼近时，激活Evade行为。

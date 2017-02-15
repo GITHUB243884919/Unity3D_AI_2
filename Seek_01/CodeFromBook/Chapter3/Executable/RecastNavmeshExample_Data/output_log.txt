@@ -1,0 +1,279 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4448]
+    Renderer: NVIDIA GeForce GTX 750
+    Vendor:   NVIDIA
+    VRAM:     953 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\clipper_library.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\clipper_library.dll into Unity Child Domain
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Ionic.Zip.Reduced.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\JsonFx.Json.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\JsonFx.Json.dll into Unity Child Domain
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\Poly2Tri.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\fzy\work\ebook\Unity3D人工智能编程精粹\37973dm\37973dm\Chapter3\Executable\RecastNavmeshExample_Data\Managed\System.Core.dll (this message is harmless)
+Collecting Meshes
+Generating Tile #0 of 1
+Assigning Graph Indices
+Connecing Tile #0 of 1
+Scanning - Process took 101 ms to complete
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 5.00 ms Searched Nodes 108 Path Length 54
+Path Number 1
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 108 Path Length 54
+Path Number 2
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 108 Path Length 53
+Path Number 3
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 108 Path Length 51
+Path Number 4
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 108 Path Length 50
+Path Number 5
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 109 Path Length 50
+Path Number 6
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 108 Path Length 50
+Path Number 7
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 107 Path Length 50
+Path Number 8
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 108 Path Length 48
+Path Number 9
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 109 Path Length 48
+Path Number 10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 107 Path Length 47
+Path Number 11
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 103 Path Length 46
+Path Number 12
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 101 Path Length 45
+Path Number 13
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 100 Path Length 45
+Path Number 14
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 99 Path Length 45
+Path Number 15
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 97 Path Length 44
+Path Number 16
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 96 Path Length 44
+Path Number 17
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 94 Path Length 43
+Path Number 18
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 92 Path Length 43
+Path Number 19
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 94 Path Length 42
+Path Number 20
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 93 Path Length 42
+Path Number 21
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 93 Path Length 42
+Path Number 22
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 92 Path Length 40
+Path Number 23
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 91 Path Length 39
+Path Number 24
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 91 Path Length 38
+Path Number 25
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 91 Path Length 37
+Path Number 26
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 89 Path Length 37
+Path Number 27
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 86 Path Length 36
+Path Number 28
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 82 Path Length 35
+Path Number 29
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 82 Path Length 35
+Path Number 30
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 77 Path Length 34
+Path Number 31
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 71 Path Length 33
+Path Number 32
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 67 Path Length 33
+Path Number 33
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 1.00 ms Searched Nodes 62 Path Length 32
+Path Number 34
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 52 Path Length 31
+Path Number 35
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 49 Path Length 31
+Path Number 36
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 45 Path Length 30
+Path Number 37
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 45 Path Length 29
+Path Number 38
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 44 Path Length 29
+Path Number 39
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 44 Path Length 28
+Path Number 40
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 42 Path Length 27
+Path Number 41
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 41 Path Length 27
+Path Number 42
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 40 Path Length 26
+Path Number 43
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 39 Path Length 25
+Path Number 44
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 39 Path Length 25
+Path Number 45
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 38 Path Length 24
+Path Number 46
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 37 Path Length 23
+Path Number 47
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 36 Path Length 23
+Path Number 48
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
